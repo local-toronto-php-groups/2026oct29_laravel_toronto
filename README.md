@@ -1,7 +1,7 @@
 ![header_image](meetup_talks1.jpg)
 
 # Laravel Toronto meet-up, Oct 29/2026
-Laravel Toronto meet-up, on Oct 29, 2026 (Journeying Through PHP + Laravel + AI)
+Laravel Toronto meet-up, on Oct 29, 2026 (Updates & Talks)
 
 <br>
 
