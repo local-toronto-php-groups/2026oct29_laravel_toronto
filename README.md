@@ -34,7 +34,7 @@ I am looking forward to seeing you! It has been a while!
 -Bob Bloom
 
 ##
-Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/311407409/](https://www.meetup.com/laravel-toronto/events/311407409/)
+Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/317122239/](https://www.meetup.com/laravel-toronto/events/317122239/)
 
 
 ## Links
